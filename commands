@@ -1,0 +1,9 @@
+vagrant global-status
+
+vagrant global-status --prune
+
+vargant box list
+
+vagrant box remove <name>
+
+vagrant box add my-box name-of-the-box.box
